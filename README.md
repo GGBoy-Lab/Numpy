@@ -1,5 +1,3 @@
-Below is a structured English README for the provided Python script:
-
 ---
 
 # Image Enhancement Pipeline
