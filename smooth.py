@@ -1,6 +1,6 @@
 import cv2
 import numpy as np
-from fguidefilter import guide_filter_gray
+from guide_filter import guide_filter_gray
 
 
 def apply_guide_filter(image, radius, step, eps_values):
